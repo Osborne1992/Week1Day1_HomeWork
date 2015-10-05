@@ -4,9 +4,10 @@ number_six = 6
   2. What is the datatype of `"Matz"`?
   3. What do the following expressions evaluate to:
     * `"Cool" + "Cool" + "Cool"`
+    "CoolCoolCool"
     * `t = "Troy"
       a = "Abed"
-      "#{t} and #{a} in the Morning"`
+      "#{t} and #{a} in the Morning"` "Troy Abed in the Morning"
     * `10 * 3`
     * `10 ** 3`
     * `10 % 3`
