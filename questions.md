@@ -1,7 +1,7 @@
   1. Assign to the value `6` to the variable `number_six`
 number_six = 6
 
-  2. What is the datatype of `"Matz"`?
+  2. What is the datatype of `"Matz"`? It is a String.
   3. What do the following expressions evaluate to:
     * `"Cool" + "Cool" + "Cool"`
     "CoolCoolCool"
