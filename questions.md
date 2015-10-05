@@ -13,7 +13,7 @@
   4. Can you explain why the expressions all give the same result?
     * `"Ronnie " + "Pickering"`
     * `"Ronnie ".+("Pickering")`
-    * `"Ronnie ".send(:+, "Pickering")' - Because it is taking a string first. It then sees the plus so it knows it needs to add to the string and it finds another string, ignoring everything else.
+    * `"Ronnie ".send(:+, "Pickering")' - They are all different methods of saying the same thing.
   5. Please fix the following buggy expressions:
     * `number six = 6` - number_six = six
     * `"Maroon" + 5` - '"Maroon" + 5.to_s'
