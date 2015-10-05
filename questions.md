@@ -17,4 +17,4 @@
   5. Please fix the following buggy expressions:
     * `number six = 6` - number_six = six
     * `"Maroon" + 5` - '"Maroon" + 5.to_s'
-    * `ture == flase` - 'true == false' - Was the typo the actual error here? I am unsure.
+    * `ture == flase` - 'true == false'
